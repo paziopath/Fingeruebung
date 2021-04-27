@@ -16,4 +16,11 @@ Hinweise für die Nutzung der Programme "exercise_3" und "exercise_4":
 !!!!!Zu Programm"exercise_4": Um den 2. Graphen zu sehen, schließen Sie das erstangezeigte Fenster (mit Graph 1) einfach.
 
 
+!!!!!Für die Ausführung der Programme werden folgende Importe (als extra Download) benötigt:
+		
+		
+		<<<<spacy>>>> <<<<networkx>>>> <<<<matplotlib>>>>
+		
+
 !!!!!Weitere Erläuterungen zum Programm finden Sie in der Dokumentation - "Protokoll.pdf"
+
